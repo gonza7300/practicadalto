@@ -1,0 +1,18 @@
+* {
+    font-family: dosis;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+div{
+    width: 320px;
+    height: 350px;
+    margin: auto;
+    margin-top: 50px;
+    border: 4x solid rgb(7, 78, 4);
+    background: rgb(78, 78, 78);
+    overflow: auto;
+}
+p{
+    color: yellow;
+}
